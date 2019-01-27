@@ -13,7 +13,7 @@ Press 3 for Deleting a TODO
 Press 4 to exit
 ```
 
-### Sample Inputs
+### Sample Input/Output
 ```
 1
 Need to buy groceries for next week
@@ -34,3 +34,9 @@ Need to submit project report
 [INDEX: 0]  Need to buy groceries for next week
 [INDEX: 1]  Need to submit project report
 ```
+
+### What is expected
+
+1. Basic programming concepts: Control FLow, Looping
+2. Use of OOP Concepts
+3. Use of Collection classes like List
