@@ -22,7 +22,7 @@ Nodejs natively uses Javascript syntax, [specifically ECMAScript 6], however, we
 2. advantages of typescript: https://www.upwork.com/hiring/community/the-advantages-of-typescript/
 4. Node with typescript: https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
 5. Node event emitter: https://medium.com/technoetics/node-js-event-emitter-explained-d4f7fd141a1a
-
+6. Jest unit testing library: https://jestjs.io/docs/en/getting-started
 
 ### Optional [Advanced]
 Reactive JS (RxJS): https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
