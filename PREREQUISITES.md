@@ -1,13 +1,13 @@
-# Prerequisites before writing the nodejs library
+# Prerequisites for writing the nodejs library
 
 1. Nodejs
 2. basic concepts:
-  - types, scoping
-  - functions
-  - event loop
-  - promises (reject/resolve) ; async/await
-  - events
-  - modules / npm
+    - types, scoping
+    - functions
+    - event loop
+    - promises (reject/resolve) ; async/await
+    - events
+    - modules / npm
 3. Typescript, advantages of typescript over Javascript
 3. Familiarity with Unit testing
 4. Unit testing frameworks in Nodejs
